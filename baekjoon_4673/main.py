@@ -6,7 +6,6 @@ for i in range(1, 10001):
     for j in str(i):
         #print('j = ' + str(j))
         i += int(j)
-    #print('num = ' + str(i))
     generated_number_set.add(i)
     #print()
 
