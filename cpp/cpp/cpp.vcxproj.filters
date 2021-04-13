@@ -14,32 +14,41 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="소스 파일\1000">
-      <UniqueIdentifier>{c8ef541c-db85-4a46-b15b-0966a000511a}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\2000">
-      <UniqueIdentifier>{703ce7b8-d789-402f-b08f-a78c6299bc90}</UniqueIdentifier>
+      <UniqueIdentifier>{a4f5eca6-14b5-4316-8627-4cdd00b574c2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1000.cpp">
-      <Filter>소스 파일\1000</Filter>
-    </ClCompile>
-    <ClCompile Include="1002.cpp">
-      <Filter>소스 파일\1000</Filter>
-    </ClCompile>
-    <ClCompile Include="1001.cpp">
-      <Filter>소스 파일\1000</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1003.cpp">
-      <Filter>소스 파일\1000</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="solution.h">
+    <ClInclude Include="..\..\..\Project1\solution.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\..\Project1\bits-stdc++.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Project1\1000.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\1001.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\1002.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\1003.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\1004.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\1005.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\1006.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Project1\main.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
