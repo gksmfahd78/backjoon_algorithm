@@ -18,37 +18,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Project1\solution.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\..\Project1\bits-stdc++.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\Project1\1000.cpp">
+    <ClCompile Include="1000.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\1001.cpp">
+    <ClCompile Include="1001.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\1002.cpp">
+    <ClCompile Include="1002.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\1003.cpp">
+    <ClCompile Include="1003.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\1004.cpp">
+    <ClCompile Include="1004.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\1005.cpp">
+    <ClCompile Include="1005.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\1006.cpp">
+    <ClCompile Include="1006.cpp">
       <Filter>소스 파일\1000</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\Project1\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1007.cpp">
+      <Filter>소스 파일\1000</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bits-stdc++.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="solution.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

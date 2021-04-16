@@ -10,6 +10,21 @@
       <Platform>Win32</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1000.cpp" />
+    <ClCompile Include="1001.cpp" />
+    <ClCompile Include="1002.cpp" />
+    <ClCompile Include="1003.cpp" />
+    <ClCompile Include="1004.cpp" />
+    <ClCompile Include="1005.cpp" />
+    <ClCompile Include="1006.cpp" />
+    <ClCompile Include="1007.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bits-stdc++.h" />
+    <ClInclude Include="solution.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F0B8404A-52C8-4C5F-881C-2BC534DD091E}</ProjectGuid>
     <RootNamespace>cpp</RootNamespace>
@@ -63,20 +78,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\Project1\bits-stdc++.h" />
-    <ClInclude Include="..\..\..\Project1\solution.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="..\..\..\Project1\1000.cpp" />
-    <ClCompile Include="..\..\..\Project1\1001.cpp" />
-    <ClCompile Include="..\..\..\Project1\1002.cpp" />
-    <ClCompile Include="..\..\..\Project1\1003.cpp" />
-    <ClCompile Include="..\..\..\Project1\1004.cpp" />
-    <ClCompile Include="..\..\..\Project1\1005.cpp" />
-    <ClCompile Include="..\..\..\Project1\1006.cpp" />
-    <ClCompile Include="..\..\..\Project1\main.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

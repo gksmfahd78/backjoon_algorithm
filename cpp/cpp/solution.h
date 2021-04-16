@@ -23,3 +23,5 @@ int covered(int idx, int prev, int last);
 
 int solution_1007();
 void combination(int N, int R, int q);
+
+int sloution_1008();
