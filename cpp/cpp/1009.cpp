@@ -1,7 +1,7 @@
 #include "solution.h"
 using namespace std;
 
-int main() {
+int sloution_1009() {
 	cin.tie(NULL), cout.tie(NULL);
 	std::ios::sync_with_stdio(false);
 

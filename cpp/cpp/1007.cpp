@@ -56,4 +56,5 @@ int solution_1007() {
 		printf("%.12f\n", ans); 
 	}
 
+	return 0;
 }
